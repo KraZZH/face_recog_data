@@ -1,0 +1,4 @@
+[core]
+    remote = face_recog
+['remote "face_recog"']
+    url = gs://verofax_images/facial_rec
